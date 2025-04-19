@@ -14,7 +14,7 @@ dotenv.config()
 
 app.use(express.json())
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173", "https://todo-client-ojkva75bh-nikitas-projects-e30fe775.vercel.app"],
     methods: ["POST", "GET", "PUT", "DELETE"]
 }))
 
