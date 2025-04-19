@@ -19,8 +19,13 @@
     npm run dev
 ```
 
-## 🌐 Open in browser
+## projets 📽️
 
+- [todo-client](https://github.com/TechnoFur1488/todo-client.git)
+- [todo-fullstack](https://github.com/TechnoFur1488/todo-server.git)
+
+## 🌐 Open in browser
 
 - [Client](http://localhost:5173)
 - [API](http://localhost:5000/api)
+
